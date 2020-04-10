@@ -2,12 +2,10 @@
 
 n = int(input())
 for i in range(1, n+1):
-
     if n%2==1:
-        upStar = i
-        downStar = i-1
+        print("* "*(n-n//2))
+        print(" *"*(n//2))
     else:
-        upStar = i
-        downStar = i
-    print(upStar*"*" + " ")
-    print(" " + downStar*"*" + " ")
+        print("* "*(n//2))
+        print(" *"*(n//2))
+
