@@ -26,9 +26,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="A:/PycharmProject" />
   </component>
-  <component name="RunManager" selected="Python.Q11729">
+  <component name="RunManager" selected="Python.Q2798">
     <configuration name="Q10870" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q1929" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q2798" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/Math1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/BruteForce" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Math1/Q1929.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/BruteForce/Q2798.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q2798" />
         <item itemvalue="Python.Q11729" />
         <item itemvalue="Python.Q10870" />
         <item itemvalue="Python.Q10872" />
         <item itemvalue="Python.gps_ip" />
-        <item itemvalue="Python.Q1929" />
       </list>
     </recent_temporary>
   </component>
@@ -170,31 +170,31 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587800575667">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587962021403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585625826997" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587800575667" />
-    <state width="1899" height="341" key="GridCell.Tab.0.bottom" timestamp="1587804257437">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587962021403" />
+    <state width="1899" height="201" key="GridCell.Tab.0.bottom" timestamp="1587902425989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="201" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586698196944" />
-    <state width="1899" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587804257437" />
-    <state width="1899" height="341" key="GridCell.Tab.0.center" timestamp="1587804257437">
+    <state width="1899" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587902425989" />
+    <state width="1899" height="201" key="GridCell.Tab.0.center" timestamp="1587902425989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="201" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586698196944" />
-    <state width="1899" height="341" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587804257437" />
-    <state width="1899" height="341" key="GridCell.Tab.0.left" timestamp="1587804257437">
+    <state width="1899" height="201" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587902425989" />
+    <state width="1899" height="201" key="GridCell.Tab.0.left" timestamp="1587902425989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="201" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586698196944" />
-    <state width="1899" height="341" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587804257437" />
-    <state width="1899" height="341" key="GridCell.Tab.0.right" timestamp="1587804257437">
+    <state width="1899" height="201" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587902425989" />
+    <state width="1899" height="201" key="GridCell.Tab.0.right" timestamp="1587902425989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="201" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586698196944" />
-    <state width="1899" height="341" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587804257437" />
+    <state width="1899" height="201" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587902425989" />
     <state width="1899" height="341" key="GridCell.Tab.1.bottom" timestamp="1587804257437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -219,11 +219,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586611164661" />
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587800554187">
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587961028535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586685737528" />
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587800554187" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1587961028535" />
     <state x="617" y="190" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587219704367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
